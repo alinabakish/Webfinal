@@ -1,5 +1,7 @@
-MIDTERM PROJECT (COUNCELOR KG)
+# Final project feom Web
+## Done by: Aidarova Aiperi and Alinabakish
 
+## Description: 
 This project was done in order to help to High School students with their admission process to universities in Kyrgyzstan.
 
 This site consists mainly from 8 parts (sections):
