@@ -37,6 +37,8 @@ FEEDBACK: in this section you find the feedbacks of users
 DOWNLOAD: in this section you will find the download button, and by pressing to it you can download the list of documents that are required to the admission process
 
 SHARE WITH LOVE: in this section you can share the site with your friends
+## Presentation video
+https://user-images.githubusercontent.com/94388390/148826837-516c242c-327e-409d-967a-59f75a6346a7.mp4
 
 ### Screenshots
 ![Снимок экрана (136)](https://user-images.githubusercontent.com/94388390/148819497-d9375dc8-78e6-494e-a037-3c31e19a0548.png)
