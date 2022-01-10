@@ -38,3 +38,13 @@ DOWNLOAD: in this section you will find the download button, and by pressing to 
 
 SHARE WITH LOVE: in this section you can share the site with your friends
 
+### Screenshots
+![Снимок экрана (136)](https://user-images.githubusercontent.com/94388390/148819497-d9375dc8-78e6-494e-a037-3c31e19a0548.png)
+![Снимок экрана (138)](https://user-images.githubusercontent.com/94388390/148819383-7fe57edb-e0a7-425e-bd70-ce08c4c307f0.png)
+![Снимок экрана (139)](https://user-images.githubusercontent.com/94388390/148819393-22a705be-02c4-45f2-8234-cb125f4a90a6.png)
+![Снимок экрана (140)](https://user-images.githubusercontent.com/94388390/148819419-9c64b78b-dd33-4ade-a2b3-c1c1a88657a4.png)
+![Снимок экрана (141)](https://user-images.githubusercontent.com/94388390/148819428-0a1de17c-566d-4133-97b9-80a5b8ebc463.png)
+![Снимок экрана (142)](https://user-images.githubusercontent.com/94388390/148819474-24ce59f4-b0cd-4bce-b677-a98f35530b23.png)
+
+![Снимок экрана (137)](https://user-images.githubusercontent.com/94388390/148819538-f0c5d226-0082-4a8b-bb29-b25126f35165.png)
+
