@@ -40,10 +40,21 @@ SHARE WITH LOVE: in this section you can share the site with your friends
 
 ## You can see tutorial document --Документ 9.docx
 
+
+
 ## Presentation video on youtube
 https://youtu.be/nV40WiHXsYA
 
+
+
 https://user-images.githubusercontent.com/94388390/148826837-516c242c-327e-409d-967a-59f75a6346a7.mp4
+
+## Video feedback
+
+https://user-images.githubusercontent.com/94388390/149574117-f7d79ea4-d42d-4f81-ac70-ce00fd38305d.MOV
+
+https://user-images.githubusercontent.com/94388390/149574229-26c20c7c-2dc9-4fb8-b1ff-c0ef10708b29.MOV
+
 
 ### Screenshots
 ![Снимок экрана (136)](https://user-images.githubusercontent.com/94388390/148819497-d9375dc8-78e6-494e-a037-3c31e19a0548.png)
